@@ -1,14 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aroragracy.aroragracy" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gracy+Arora!;" />
 </h1>
-
-<h3 align="center">Software Engineer @ BNY · Distributed Systems · Agentic AI · Java · Spring Boot · Node.js · Angular</h3>
-<h4 align="center">600M+ records in production · 50K+ ops/day · Zero-downtime 200M+ record migration</h4>
-
+<h3 align="center">Software Engineer @ BNY · Trade & Position Management · Java · Spring Boot · Angular · SQL/Oracle</h3>
+<h4 align="center">Building client-facing trade & collateral management tools in a production financial system</h4>
 <br/>
-
 <div align="center"> 
   <a href="mailto:gracyarora812@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -17,53 +13,45 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
 <hr/>
-
 <h2 align="center">🚀 What I Build</h2>
 <br/>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Distributed_Systems-600M+_records_·_50K+_ops/day-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic_AI-Claude_API_·_MCP_·_HITL_Workflows-6B4FBB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trade_%26_Position_Management-Collateral_Platform_@_BNY-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Client_Facing_UI-New_Screens_%26_Workflows-6B4FBB?style=for-the-badge" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Security_Engineering-Air--gapped_DMZ_·_ICAP_·_Async_MQ-D32F2F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_Migration-200M+_records_·_Zero_Downtime-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend_Services-Java_·_Spring_Boot_·_Oracle_%2F_SQL-D32F2F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Messaging-Async_Trade_Updates_via_MQ-2E7D32?style=for-the-badge" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Full--Stack-Angular_·_Spring_Boot_·_Node.js_·_MongoDB-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack-Angular_·_Spring_Boot_·_SQL-FF6F00?style=for-the-badge" />
 </div>
 <hr/>
-
 <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,angular,typescript,javascript" /><br><br>
-    <img src="https://skillicons.dev/icons?i=cpp,mongodb,mysql,aws,git,linux" /><br><br>
-    <img src="https://skillicons.dev/icons?i=docker,github,vscode,html,css,gcp" />
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,javascript" /><br><br>
+    <img src="https://skillicons.dev/icons?i=mysql,git,linux,docker,github,vscode" />
 </div>
-
 <br/>
 <hr/>
-
-<h2 align="center">📌 Projects</h2>
+<h2 align="center">📌 About My Work</h2>
 <br/>
-
 <div align="center">
-
+I work on the trade and position management side of a collateral management platform at BNY.
+My focus is building and enhancing features and screens that make it easier for clients to view,
+track, and act on trade and position data — combining backend services in Java/Spring Boot
+with Angular front-ends, backed by Oracle/SQL, and connected via MQ-based messaging for
+reliable, asynchronous trade data flow.
 </div>
-
 <br/>
 <hr/>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/aroragracy/aroragracy/output/github-contribution-grid-snake.svg" />
   <br/><br/>
 </div>
-
 <hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
