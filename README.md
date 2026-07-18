@@ -10,10 +10,10 @@
 <br/>
 
 <div align="center"> 
-  <a href="mailto:nakshatrajain246@gmail.com">
+  <a href="mailto:gracyarora812@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/nakshjain" target="_blank">
+  <a href="https://linkedin.com/in/aroragracy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -50,21 +50,6 @@
 
 <div align="center">
 
-### 🏋️ [Liftorium](https://github.com/nakshjain/liftorium) · [liftorium.fit](https://liftorium.fit)
-**Full-stack workout tracker — Angular 21 · Spring Boot 4 · MongoDB · JWT**
-
-Mobile-first gym tracking app built for real usage — Signal-based live state, offline-first with IndexedDB, automatic PR detection engine, guest-to-account sync, dual-token JWT with HMAC-SHA256 hashed refresh tokens. Architected and directed using agentic AI coding workflows (Claude Code, Codex, Kiro).
-
-<br/>
-
-### 🛒 [Navkar Artistry Hub](https://github.com/nakshjain/navkar-artistry-hub) · [navkarartistryhub.shop](https://navkarartistryhub.shop)
-**Full-stack e-commerce — Angular 15 · Node.js · MongoDB · Razorpay · GCS**
-
-End-to-end e-commerce platform with product management, JWT auth, cart, order tracking, and Razorpay payment integration. Google Cloud Storage for optimised image serving. Independently deployed and maintained.
-
-| | [Frontend Repo](https://github.com/nakshjain/navkar-artistry-hub) | [Backend Repo](https://github.com/nakshjain/navkar-artistry-hub-backend) |
-|---|---|---|
-
 </div>
 
 <br/>
@@ -73,7 +58,7 @@ End-to-end e-commerce platform with product management, JWT auth, cart, order tr
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nakshjain/nakshjain/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/aroragracy/aroragracy/output/github-contribution-grid-snake.svg" />
   <br/><br/>
 </div>
 
@@ -82,8 +67,8 @@ End-to-end e-commerce platform with product management, JWT auth, cart, order tr
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nakshjain&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=nakshjain&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aroragracy&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=aroragracy&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/><br/>
-<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nakshjain&hide=HTML,CSS,SCSS&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,nakshjain" alt="top langs" />
+<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aroragracy&hide=HTML,CSS,SCSS&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,nakshjain" alt="top langs" />
 </div>
